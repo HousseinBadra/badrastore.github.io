@@ -237,6 +237,11 @@ footer{
 .cart-item .cart-item-content p{
   text-align:center;
 }
+.carousel-item >div:first-child{
+
+  background:#FFF !important;
+
+}
 
 @media screen and (min-width:900px){
   .cart-item{
